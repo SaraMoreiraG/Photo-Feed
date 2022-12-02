@@ -1,0 +1,40 @@
+body {
+	font-family: sans-serif;
+}
+h1 {
+	margin:10px 0 10px 30%;
+}
+.wrapped {
+	background-color: lightgray;
+	width: 100%;
+	display: inline-block;
+}
+.box {
+	background-color: white;
+	width: 40%;
+	margin: 45px auto;
+}
+.box-header {
+	display: flex;
+	border-bottom: solid 1px lightgray;
+}
+h3,
+p {
+	margin: 10px;
+}
+.date {
+	margin-left: auto;
+	color: gray;
+}
+.image {
+	text-align: center;
+}
+img {
+	width: 100%;
+	max-height: auto;
+}
+.comment {
+	border-top: solid 1px lightgray;
+	padding: 1px 20px 1px 20px;
+}
+
